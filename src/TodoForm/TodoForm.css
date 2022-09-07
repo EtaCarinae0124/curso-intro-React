@@ -60,13 +60,13 @@ textarea:focus {
   font-family: "Montserrat";
 }
 
-.TodoForm-button-add {
+.TodoForm-button--add {
   background-color: lightcoral;
   box-shadow: 0px 5px 25px rgba(250, 97, 168, 0.5);
   font-family: "Montserrat";
 }
 
-.TodoForm-button-cancel {
+.TodoForm-button--cancel {
   background: transparent;
   font-family: "Montserrat";
 }

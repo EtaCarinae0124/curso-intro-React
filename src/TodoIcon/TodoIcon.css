@@ -28,6 +28,6 @@
   fill: #4caf50;
 }
 
-.icon-container:hover .Icon-container--delete {
+.Icon-container:hover .Icon-container--delete {
   fill: red;
 }
